@@ -45,10 +45,10 @@ html{
     text-decoration: none;
 }
 .contenedor-header header nav ul li a:hover{
-    color: #1CB698;
+    color: #a863a5;
 }
 .nav-responsive{
-    background-color: #1CB698;
+    background-color: #ac4e53;
     color:#fff;
     padding: 5px 10px;
     border-radius: 5px;
