@@ -29,7 +29,7 @@ html{
 .contenedor-header header .logo a{
     font-family: 'Righteous';
     font-size: 36px;
-    color: #b61c4a;
+    color: #0c0a0b;
     text-decoration: none;
 }
 .contenedor-header header ul{
@@ -57,32 +57,32 @@ html{
 }
 /* SECCION I N I C I O */
 .inicio{
-    background: linear-gradient(to top, #121213e5, rgb(48, 37, 42)),
-    url(img/fondo.jpg);
+    background: linear-gradient(to top, #6d6d7927, rgb(100, 93, 96)),
+    url(promo.jpeg);
     background-size: cover;
-    height: 100vh;
+    height: 123vh;
     color: rgb(8, 5, 5);
     display: flex;
     align-items: center;
 }
 .inicio .contenido-banner{
-    padding: 20px;
+    padding: 40px;
     background-color: #dabebe;
-    max-width: 350px;
+    max-width: 400px;
     margin: auto;
     text-align: center;
-    border-radius: 40px;
+    border-radius: 30px;
 }
 .inicio .contenido-banner img{
-    margin-top: 40px;
-    border: 10px solid #382f34;
+    margin-top: 30px;
+    border: 5px solid #382f34;
     display: block;
-    width: 80%;
+    width: 70%;
     margin: auto;
     border-radius: 100%;
 }
 .inicio .contenido-banner h1{
-    margin-top: 40px;
+    margin-top: 5px;
     font-size: 42px;
     font-family: 'Righteous';
 }
@@ -151,11 +151,11 @@ html{
 }
 .sobremi .fila .col ul li strong{
     display: inline-block;
-    color: #860967;
+    color: #d848c2;
     width: 130px;
 }
 .sobremi .fila .col ul li span{
-    background-color: #fc17f0;
+    background-color: #ece4ec;
     padding: 3px;
     font-weight: bold;
     border-radius: 5px;
@@ -201,7 +201,7 @@ html{
     left: 0;
     width: 0;
     height: 100%;
-    background-color: #8a138a;
+    background-color: #e6d7e6;
     z-index: -1;
     transition: 1s;
 }
@@ -633,7 +633,7 @@ footer .arriba{
     display: block;
     width: 50px;
     height: 50px;
-    background-color: #1CB698;
+    background-color: #da2f98;
     color: #fff;
     position: absolute;
     left: 50%;
